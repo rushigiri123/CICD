@@ -1,2 +1,2 @@
-FROM ubuntu/NGINX
+FROM ubuntu/nginx
 COPY . /var/www/html
